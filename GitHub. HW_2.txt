@@ -17,5 +17,6 @@ Bag Reports сделать текстовый документ со структ
  git push      // Запушить main на внешний репозиторий.
 7. создаем nano Check_List.txt		//В ветке CheckLists набросать структуру чек листа.
 8. git push 	//Запушить структуру на внешний репозиторий
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-10. Синхронизировать Внешнюю и Локальную ветки Main
+9. идем на https://github.com/insta19801980/GIT/pulls, нажимаем Pull request, 
+megre pull request  // На внешнем репозитории сделать Pull Request ветки CheckLists в main
+git push, git pull      // Синхронизировать Внешнюю и Локальную ветки Main
